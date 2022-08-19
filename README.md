@@ -2,9 +2,11 @@
 
 Hello! Welcome to my cooking recipes book! :wave:
 
-- [![Chicken Stew](images/chickenstew.jpg)](https://www.littlebroken.com/one-pot-chicken-stew/) Chicken Stew
-- [![Icecream Sandwich](images/sandwich.jpg)](https://makeyourmeals.com/homemade-ice-cream-sandwich/) Icecream Sandwich
-- [![Chipotle Chicken Tacos](images/chipotle.jpg)](https://www.littlebroken.com/chipotle-chicken-tacos/) Chipotle Chicken Tacos
+*Click on the images to go into a cooking website.*
+
+- Chicken Stew[![Chicken Stew](images/chickenstew.jpg)](https://www.littlebroken.com/one-pot-chicken-stew/)
+- Icecream Sandwich[![Icecream Sandwich](images/sandwich.jpg)](https://makeyourmeals.com/homemade-ice-cream-sandwich/)
+- Chipotle Chicken Tacos[![Chipotle Chicken Tacos](images/chipotle.jpg)](https://www.littlebroken.com/chipotle-chicken-tacos/)
 
 ### ***Rules and Tips:***
 
